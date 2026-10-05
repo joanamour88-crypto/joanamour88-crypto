@@ -12,7 +12,7 @@
 
 ### 👨‍💻 A propos de moi
 
-Je me nomme Joan AMOUR, étudiant en **BTS SIO (spécialité SLAM)**. 
+Je me nomme Joan AMOUR, étudiant en **BTS SIO (spécialité SLAM)** en deuxieme année. 
 *   🔭 Je travaille actuellement sur : La création d'API avec **JavaScript et Express**.
 *   🗺️ Projet personnelle : **Serveur ssh et minecraft** à partir d'un ancien ordinateur.
 *   📫 Comment me joindre : **joan.amour88@gmail.com**
